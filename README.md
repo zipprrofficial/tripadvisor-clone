@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/tripadvisor-clone/">TripAdvisor clone script</a> is a readymade solution that allows businesses and entrepreneurs to launch their own travel and tourism review websites. It replicates all the core features of the original platform, empowering new owners to build a consumer-facing business listing popular attractions, restaurants, hotels, etc, and collecting user reviews and ratings.
+A <a href="https://zipprr.com/tripadvisor-clone/">TripAdvisor clone script</a> is a readymade solution that allows businesses and entrepreneurs to launch their own travel and tourism review websites. It replicates all the core features of the original platform, empowering new owners to build a consumer-facing business listing popular attractions, restaurants, hotels, etc, and collecting user reviews and ratings.
 
 <h2><b>Key Features</b></h2>
 
